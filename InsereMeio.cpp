@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 int insere_meio(int *vetor, int &qtde, int elemento) {
